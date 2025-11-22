@@ -1,0 +1,6 @@
+intarray.c
+setup.py
+intarraymod.egg-info/PKG-INFO
+intarraymod.egg-info/SOURCES.txt
+intarraymod.egg-info/dependency_links.txt
+intarraymod.egg-info/top_level.txt
